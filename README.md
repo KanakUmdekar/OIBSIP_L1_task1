@@ -3,7 +3,7 @@ The tasks are assigned by Oasis Infobyte.
 
 Task 1: to create a landing page using html and css.
 
-### Yoga landing page
+### Yoga landing page (##### Not Responsive)
 
 ### Technologies used
 - HTML
